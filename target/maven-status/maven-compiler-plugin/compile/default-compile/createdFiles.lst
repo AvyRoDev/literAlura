@@ -1,0 +1,12 @@
+com/alura/challenge/literalura/service/ConsumoAPI.class
+com/alura/challenge/literalura/service/IConvierteDatos.class
+com/alura/challenge/literalura/model/DatosAutor.class
+com/alura/challenge/literalura/repository/AutorRepository.class
+com/alura/challenge/literalura/model/Libro.class
+com/alura/challenge/literalura/model/DatosLibro.class
+com/alura/challenge/literalura/model/Autor.class
+com/alura/challenge/literalura/model/Datos.class
+com/alura/challenge/literalura/repository/LibroRepository.class
+com/alura/challenge/literalura/principal/Principal.class
+com/alura/challenge/literalura/LiteraluraApplication.class
+com/alura/challenge/literalura/service/ConvierteDatos.class
